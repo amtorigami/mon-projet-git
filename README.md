@@ -7,3 +7,5 @@ The only place where success comes before work is in the dictionary (^\_^)
 modif camarade
 
 changement pour simuler un conflit (moi)
+
+Amélioration pour la partie B de GITHUB
